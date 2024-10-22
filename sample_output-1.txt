@@ -1,6 +1,0 @@
-The goodies selected for distribution are:
-Goodies and Prices:  
-MI Band:  999 
-Sandwich Toaster:  2195 
-Cult Pass:  2799 
-And the difference between the chosen goodie with highest price and the lowest price is:2799
